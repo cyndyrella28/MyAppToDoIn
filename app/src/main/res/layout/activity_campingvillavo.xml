@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/campingvillavo"
+    tools:context=".campingvillavo">
+
+    <Button
+        android:id="@+id/planeaydisfrutaaqui10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="275dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="280dp"
+        android:text="Planea y Disfruta Aquí"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.593"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/planeaydisfrutaaqui11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="275dp"
+        android:layout_marginEnd="25dp"
+        android:layout_marginBottom="110dp"
+        android:text="Planea y Disfruta Aquí"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.576"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/planeaydisfrutaaqui12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="270dp"
+        android:layout_marginBottom="20dp"
+        android:text="Planea y Disfruta Aquí"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.45"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/villavo3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="300dp"
+        android:layout_marginBottom="20dp"
+        android:text="VILLAVO"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/planeaydisfrutainfo3"
+        android:layout_width="408dp"
+        android:layout_height="101dp"
+        android:layout_marginBottom="5dp"
+        android:background="#F0F87F"
+        android:fontFamily="@font/balsamiq_sans"
+        android:text="                                         Si lo que buscas es una opción a costo &quot;casi cero&quot;:"
+        android:textColor="#090808"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/campingvillavo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/balsamiq_sans_bold"
+        android:text="CAMPING VILLAVO"
+        android:textColor="#29668B"
+        android:textSize="28sp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.293" />
+
+    <TextView
+        android:id="@+id/utopiainfo"
+        android:layout_width="280dp"
+        android:layout_height="100dp"
+        android:layout_marginStart="300dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="160dp"
+        android:background="#FBFBFB"
+        android:text="Utopía, está ubicado por la vía Puerto López km 15 Vereda la Reforma. Un glamping que deleita con sus paisajes, lindos atardeceres y gastronomía. Cuenta con una zona equipada de lujos internos y externos, que permiten al huésped vivir una experiencia inigualable entre la autenticidad de la zona y lo adaptado allí para los hospedajes. Los precios por noche oscilan desde $250.000 hasta $400.000. Confirmar precio y disponibilidad 3208832814."
+        android:textColor="#090808"
+        android:textColorHint="#1A090909"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.813"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/wairainfo"
+        android:layout_width="280dp"
+        android:layout_height="110dp"
+        android:layout_marginStart="300dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="324dp"
+        android:background="#FBFBFB"
+        android:text="Waira Eco Lodge, es un alojamiento rodeado de vegetación que permite a los turistas conectar el ecosistema propio de la región. Ofreciendo a sus huéspedes una atención de lujo para disfrutar de platos a la carta, piscina privada, conexión wifi, desayuno, parqueadero, jacuzzi, malla colgante, baño natural y baño privado fuera del glamping. Los precios por noche oscilan desde $200.000 hasta $400.000. Confirmar  precio y disponibilidad 3219690620. "
+        android:textColor="#090808"
+        android:textColorHint="#1A090909"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.79"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/wairafoto"
+        android:layout_width="120dp"
+        android:layout_height="95dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="338dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/elcarmeninfo"
+        app:layout_constraintHorizontal_bias="0.294"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/campingwaira" />
+
+    <ImageView
+        android:id="@+id/utopiafoto"
+        android:layout_width="120dp"
+        android:layout_height="83dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="170dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/elcarmeninfo"
+        app:layout_constraintHorizontal_bias="0.588"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/utopiacamping" />
+
+    <TextView
+        android:id="@+id/infocampingvillavo"
+        android:layout_width="400dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="442dp"
+        android:background="#F0F87F"
+        android:fontFamily="@font/balsamiq_sans"
+        android:text="CAMPING CERCA DE VILLAVICENCIO                                                                                          Aquí encontrarás diferentes opciones para hacer ecoturismo a los alrededores de la ciudad. Los precios son, por lo general, por persona/noche y dependen del tipo de servicio seleccionado y lo que incluya."
+        android:textColor="#090808"
+        android:textSize="10sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="150dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logoapp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
