@@ -3,9 +3,9 @@ package com.example.myapptodoin
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class registrousuario : AppCompatActivity() {
+class Mapavillavo : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_registrousuario)
+        setContentView(R.layout.activity_mapavillavo)
     }
 }

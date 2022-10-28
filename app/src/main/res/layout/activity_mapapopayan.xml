@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#AAA8AE"
-    tools:context=".mapapopayan">
+    tools:context=".Mapapopayan">
 
     <Button
         android:id="@+id/btndeatras3"

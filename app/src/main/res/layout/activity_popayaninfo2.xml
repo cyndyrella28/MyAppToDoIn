@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/popayaninfo"
-    tools:context=".popayaninfo2">
+    tools:context=".Popayaninfo2">
 
     <TextView
         android:id="@+id/popayaninfo2"

@@ -3,9 +3,9 @@ package com.example.myapptodoin
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 
-class villavicencioinfo1 : AppCompatActivity() {
+class Popayaninfo2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_villavicencioinfo1)
+        setContentView(R.layout.activity_popayaninfo2)
     }
 }

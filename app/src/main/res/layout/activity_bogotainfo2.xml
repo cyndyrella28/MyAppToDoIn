@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/bogotainfo1"
-    tools:context=".bogotainfo2">
+    tools:context=".Bogotainfo2">
 
     <TextView
         android:id="@+id/villavoinfo"

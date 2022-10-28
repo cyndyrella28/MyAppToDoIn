@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyAppToDoIn</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Contraseña">Contraseña</string>
 </resources>

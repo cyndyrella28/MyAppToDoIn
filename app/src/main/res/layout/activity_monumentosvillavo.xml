@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/monumentosvillavo"
-    tools:context=".monumentosvillavo">
+    tools:context=".Monumentosvillavo">
 
     <TextView
         android:id="@+id/monumentoalcoleotxt"

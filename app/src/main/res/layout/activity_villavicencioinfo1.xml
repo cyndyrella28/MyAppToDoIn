@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@drawable/villavicencioinfo1"
     android:textAlignment="textStart"
-    tools:context=".villavicencioinfo1">
+    tools:context=".Villavicencioinfo1">
 
     <Button
         android:id="@+id/btndeatras"

@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/pexels_1006121"
-    tools:context=".todoinsomos">
+    tools:context=".Todoinsomos">
 
     <Button
         android:id="@+id/boxsomos"
